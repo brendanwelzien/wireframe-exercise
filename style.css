@@ -1,0 +1,76 @@
+header {
+ 
+}
+
+nav {
+
+}
+
+nav > img {
+
+}
+
+nav > ul {
+
+}
+
+nav > ul > li {
+
+}
+
+main {
+    
+}
+
+main: first-child {
+
+}
+
+main > ul li{
+
+}
+
+main > ul {
+
+}
+
+main > ul li:nth-child(-n+2){
+
+}
+
+main > article > *{
+
+}
+
+main > section {
+
+}
+
+h2 {
+
+}
+
+article h2 {
+
+}
+
+article p {
+
+}
+
+article button {
+
+}
+
+article button:hover {
+
+}
+
+footer {
+
+}
+
+
+*{
+    
+}
